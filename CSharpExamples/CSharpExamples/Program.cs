@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSharpExamples.CodeExamples;
+using System;
 
 namespace CSharpExamples
 {
@@ -6,7 +7,8 @@ namespace CSharpExamples
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ReverseTab revTab = new();
+            revTab.WriteReverseTab();
         }
     }
 }

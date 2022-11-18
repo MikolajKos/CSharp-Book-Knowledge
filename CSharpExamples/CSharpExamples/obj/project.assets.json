@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\CSharpExamples\\CSharpExamples\\CSharpExamples.csproj",
+      "projectUniqueName": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\.NET\\CSharp-Book-Knowledge\\CSharpExamples\\CSharpExamples\\CSharpExamples.csproj",
       "projectName": "CSharpExamples",
-      "projectPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\CSharpExamples\\CSharpExamples\\CSharpExamples.csproj",
+      "projectPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\.NET\\CSharp-Book-Knowledge\\CSharpExamples\\CSharpExamples\\CSharpExamples.csproj",
       "packagesPath": "C:\\Users\\nikok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\CSharpExamples\\CSharpExamples\\obj\\",
+      "outputPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\.NET\\CSharp-Book-Knowledge\\CSharpExamples\\CSharpExamples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

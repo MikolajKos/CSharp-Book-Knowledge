@@ -1,0 +1,16 @@
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\bin\Debug\net5.0\CSharpExamples.exe
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\bin\Debug\net5.0\CSharpExamples.deps.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\bin\Debug\net5.0\CSharpExamples.runtimeconfig.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\bin\Debug\net5.0\CSharpExamples.runtimeconfig.dev.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\bin\Debug\net5.0\CSharpExamples.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\bin\Debug\net5.0\ref\CSharpExamples.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\bin\Debug\net5.0\CSharpExamples.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\obj\Debug\net5.0\CSharpExamples.csproj.AssemblyReference.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\obj\Debug\net5.0\CSharpExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\obj\Debug\net5.0\CSharpExamples.AssemblyInfoInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\obj\Debug\net5.0\CSharpExamples.AssemblyInfo.cs
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\obj\Debug\net5.0\CSharpExamples.csproj.CoreCompileInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\obj\Debug\net5.0\CSharpExamples.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\obj\Debug\net5.0\ref\CSharpExamples.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\obj\Debug\net5.0\CSharpExamples.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CSharp-Book-Knowledge\CSharpExamples\CSharpExamples\obj\Debug\net5.0\CSharpExamples.genruntimeconfig.cache
